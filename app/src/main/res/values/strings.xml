@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HomePage</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_difficulty_levels">Difficulty Levels</string>
+
+    <!-- strings for homepage -->
+    <string name="score">Your highest score: 0</string>
+    <string name="instructions_button">Read the Instructions</string>
+    <string name="start_button">Play the Game</string>
+
+    <!-- strings for instructions -->
+    <string name="instructions_title">Rules to follow by:</string>
+    <string name="game_rule1">Player has to guess which letters fits in the blanks of the word.</string>
+    <string name="game_rule2">Each letter can only be used once.</string>
+    <string name="game_rule3">If the player guesses the letter incorrectly, a part of the body will be hanging.</string>
+    <string name="game_rule4">The player has a certain amount of guesses before the whole body is hanging meaning the game is over.</string>
+    <string name="game_rule5">The player can only have one chance to guess the word in its entirety.</string>
+    <string name="game_rule6">If the player incorrectly guess the word, they automatically lose the game.</string>
+    <string name="game_rule7">There will be a scoring system to keep track of your game score.</string> -->
+
+    <!-- strings for difficulty levels -->
+    <string name="difficulty_levels_title">Choose your difficulty level:</string>
+    <string name="easy_button">Easy</string>
+    <string name="medium_button">Medium</string>
+    <string name="hard_button">Hard</string>
+
+</resources>
